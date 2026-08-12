@@ -3,7 +3,7 @@
 <!-- ========================================================= -->
 
 <h1 align="center">
-Hi 👋 I'm <strong>Makini Vonic</strong>
+Hi 👋 Welcome to <strong>FN-techhub</strong>
 </h1>
 
 <h3 align="center">
